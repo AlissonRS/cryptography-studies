@@ -11,4 +11,5 @@ Topics covered:
  - Block Ciphers (DES)
  - Key Exchange (implementing Diffie-Hellman)
  - Public Key Encryption (RSA + breaking RSA by factoring example)
+ - Hash Functions, Digital Signatures, HMAC
 
